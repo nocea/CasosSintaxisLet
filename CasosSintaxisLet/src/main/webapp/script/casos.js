@@ -1,4 +1,5 @@
-function caso1(){
+ 
+ function caso1(){
 	var a = 5;
 var b = 10;
 
@@ -8,7 +9,7 @@ if (a === 5) {
 
   
 
-document.write(a);//a=5
+document.write(a);//a=4
   
 
 document.write(b);//b=1

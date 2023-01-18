@@ -9,7 +9,7 @@ if (a === 5) {
 
   
 
-document.write(a);//a=4
+document.write(a);//a=4 
   
 
 document.write(b);//b=1
